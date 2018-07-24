@@ -48,7 +48,7 @@
    
      
   
-    <finalName>MavenTestApp</finalName>
+    <finalName>MavenTestAppGit</finalName>
     <plugins>
     <plugin>
     <groupId>org.apache.tomcat.maven</groupId>
