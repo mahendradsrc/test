@@ -56,7 +56,7 @@
     <version>2.2</version>
     <configuration>
         <port>9090</port>
-        <path>/MavenTestApp</path>
+        <path>/MavenTestAppGit</path>
     </configuration>
 </plugin>
   
